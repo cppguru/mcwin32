@@ -40,5 +40,5 @@ Latest builds:
 
 Source:
 
-   * https://github.com/adamyg/mwin32
+   * https://github.com/adamyg/mcwin32
 
